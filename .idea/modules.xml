@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FlicButton.iml" filepath="$PROJECT_DIR$/FlicButton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flicboiler/flicboiler.iml" filepath="$PROJECT_DIR$/flicboiler/flicboiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fliclib/fliclib.iml" filepath="$PROJECT_DIR$/fliclib/fliclib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/locationAddress/locationAddress.iml" filepath="$PROJECT_DIR$/locationAddress/locationAddress.iml" />
+      <module fileurl="file://$PROJECT_DIR$/locationAddress/locationAddress.iml" filepath="$PROJECT_DIR$/locationAddress/locationAddress.iml" />
+    </modules>
+  </component>
+</project>
